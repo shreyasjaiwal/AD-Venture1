@@ -14,12 +14,12 @@ const Navbar = () => {
 
   const [color, setcolor] = useState(false);
 
+
   return (
     <div
       className={
-        color
-          ? "sticky top-0 flex justify-items-end items-center text-white px-4 sm:px-40 z-10 bg-[rgba(0,0,0,0.8)] h-14"
-          : "sticky top-0 flex justify-items-end items-center text-white px-4 sm:px-40 z-10 h-14"
+           "sticky top-0 flex justify-items-end items-center text-white px-4 sm:px-40 z-10 bg-[rgba(0,0,0,0.8)] h-14"
+          
       }
     >
       <div className="w-full">
