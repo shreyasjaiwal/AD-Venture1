@@ -34,11 +34,11 @@ const Footer = () => {
           </h2>
           <div className="flex py-2 ">
             <HiUser size={28} />
-            <span className="px-4 font-bold ">Ishan Pandey & Abhishek Mishra</span>
+            <span className="px-4 font-bold ">Anushka Thumiki</span>
           </div>
           <div className="flex py-2 ">
             <BsTelephone size={28} />
-            <span className="px-4 font-bold ">+91 6376317859, +91 8329507391</span>
+            <span className="px-4 font-bold ">+91 9063001893</span>
           </div>
           <div className="flex py-2">
             <FiMail size={28} />
