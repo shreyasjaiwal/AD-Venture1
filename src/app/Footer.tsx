@@ -18,7 +18,7 @@ const Footer = () => {
       <div>
         <a href="https://www.ecellvnit.org/"  target='_blank'><Image className="w-[140px]" src={ecell} alt="" /></a>
         <p className="py-4">
-        Ecell VNIT is central India &apos s largest non profit student run organization promoting entrepreneurship skills among students and building a startup ecosystem.
+        Ecell VNIT is central India&#39;s largest non profit student run organization promoting entrepreneurship skills among students and building a startup ecosystem.
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
           <a href="https://m.facebook.com/vnitecell/" target='_blank' ><FaFacebookSquare size={28} /></a>

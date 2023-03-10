@@ -10,9 +10,9 @@ const About = () => {
         
         <div className="flex flex-col justify-center">
           <p className="text-[#ffffff] text-xl font-bold">ABOUT AD-VENTURE</p>
-          <h1 className="md:text-2xl sm:2xl text-2xl font-bold py-4">Ad-venture is a competition for designing advertisements that tests a one &apos s ability to combine
+          <h1 className="md:text-2xl sm:2xl text-2xl font-bold py-4">Ad-venture is a competition for designing advertisements that tests a one&#39;s ability to combine
 creativity with marketing strategy and produce an advertisement that will entice consumers to
-purchase your company &apos s products.</h1>
+purchase your company&#39;s products.</h1>
           <p className="">
           </p>
           
