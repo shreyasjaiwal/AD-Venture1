@@ -31,14 +31,12 @@ const Navbar = () => {
           <a href="#home"> Home</a>
         </li>
         <li className="p-3 w-32  hover:underline">
-          <a href="#about">Rule-Book</a>
+          <a href="#about">Instructions</a>
         </li>
         <li className="p-3 w-24  hover:underline">
           <a href="#timeline">Timeline</a>
         </li>
-        <li className="p-3 w-24  hover:underline">
-          <a href="#broucher">Brochure</a>
-        </li>
+
         <li className="p-3 w-32  hover:underline">
           <a href="#footer">Contact Us</a>
         </li>
@@ -65,7 +63,6 @@ const Navbar = () => {
           <li className="p-4 underline"><a href="#home">Home</a></li>
           <li className="p-4 underline"><a href="#about">Rule-Book</a></li>
           <li className="p-4 underline"><a href="#timeline">Timeline</a></li>
-          <li className="p-4 underline"><a href="#broucher">Brochure</a></li>
           <li className="p-4 underline"><a href="#footer">Contact Us</a></li>
         </ul>
       </div>
