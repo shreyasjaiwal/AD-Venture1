@@ -10,7 +10,7 @@ function Hero() {
       <div className="">
       <div className="relative max-w-[800px] mt-0 w-full h-screen mx-auto text-center flex flex-col justify-center" id="home">
         <p className="md:text-2xl sm:text-xl text-[1.2rem] py-2 text-[#ffffff] font-bold">
-        Embark on the ultimate AD-VENTURE <br></br>and unleash your creative genius!
+        Transform into the epitome of marketing 
         </p>
         <div>
         <Image className="w-[300px] mx-auto my-4" src={logo} alt="CricketPlayer..." />
